@@ -1,0 +1,2 @@
+echo "MY PROFILE"
+pause 
