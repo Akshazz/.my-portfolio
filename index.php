@@ -16,6 +16,7 @@
 <div class="bg">
 <p style="color: #8c8c8c; font-size: 13px;">http://localhost/.my-portfolio/profile.bat</p>
 <br>
+
 <p style="font-size: 10px;background: black; color: white; padding: 10px; margin: auto; width: 75%;"><span style="float: right; color: white;"> x </span> $ terminal / profile / </p>
 
 <text class="textarea" style="background: black; border: border: 1px solid black; 10px; width: 99%; height: 500px; color: green; font-size: 13px;">
@@ -25,20 +26,31 @@
 akshaz@user ~ $ : ./profile<br>
 akshaz@user ~ $ : sudo su<br>
 [sudo] password for terminal: *******<br>
-
+akshaz@root ~ # : nano user.bat <br>
 akshaz@root ~ # : <br>
 >>> {<br>
->>> string1 = "Name"<br>
->>> string2 = "Age"<br>
->>> print ('Name: Niegos, Harold G.')<br>
->>> print print ('Age: 23')<br>
->>> print #: }<br>
+>>> bio = "Name"<br>
+>>> echo * * * * * * * * * * * * * * * * * * <br>
+>>> echo * Name: Harold Gico Niegos &nbsp;* <br>
+>>> echo * Age: 23 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *<br>
+>>> echo * Birthdate: 01-26-00 <br>
+>>> echo * Sex: Male <br>
+
+>>> echo * Address: Quezon City *<br>
+>>> echo<br>
+>>> pause <br>
 
 </div>
 
+<br>
+
 </text>
 
-<br>
 <p style="font-size: 10px;background: black; color: white; padding: 10px; margin: auto; width: 75%;"><span style="float: right; color: white;"> x </span> $ terminal / profile / </p>
 
 <text class="textarea" style="background: black; border: border: 1px solid black; 10px; width: 99%; height: 500px; color: green; font-size: 13px;">
@@ -48,7 +60,7 @@ akshaz@root ~ # : <br>
 akshaz@user ~ $ : ./profile<br>
 akshaz@user ~ $ : sudo su<br>
 [sudo] password for terminal: *******<br>
-
+akshaz@root ~ # : nano user.bat <br>
 akshaz@root ~ # : <br>
 >>> {<br>
 >>> bio = "Name"<br>
@@ -70,7 +82,6 @@ akshaz@root ~ # : <br>
 </div>
 
 </text>
-
 
 
 </div>
